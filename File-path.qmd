@@ -1,0 +1,15 @@
+---
+title: "File-path"
+author: "Yos"
+format: html
+---
+
+```{r}
+library(tidyverse)
+```
+
+
+```{r}
+data<-read_csv("/courses/EDS221/example/data.csv")
+```
+
